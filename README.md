@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [rudra]
 
-- 🌱 I’m currently learning **Solidity,nodejs,react**
+- 🌱 I’m currently learning **Solidity,nodejs**
 
 - 📫 How to reach me **anjalitiwariwork@gmail.com**
 
