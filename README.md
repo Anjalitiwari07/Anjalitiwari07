@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on skill develeopment
 
-- 🌱 I’m currently learning **js and nodejs**
+- 🌱 I’m currently learning **linux and AWS**
 
 - 📫 How to reach me **anjalitiwariwork@gmail.com**
 
